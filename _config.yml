@@ -1,4 +1,4 @@
 theme: jekyll-theme-leap-day
 
 # the little icon that appears in the browser window's tab
-favicon: favicon.ico
+favicon: assets/favicon.ico
